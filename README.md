@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vineet k. Chauhan a Skilled Java Developer proficient in Core and Advanced Java, including Spring Boot and Spring AI. Experienced in backend development with MySQL, JDBC, JSP, and Servlets. Front-end expertise includes HTML, CSS, JavaScript, React, and Next.js. Adept at creating efficient, high-quality solutions and optimizing application performance with a collaborative, problem-solving approach.
+I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core and Advanced Java, including Spring Boot and Spring AI. Experienced in backend development with MySQL, JDBC, JSP, and Servlets. Front-end expertise includes HTML, CSS, JavaScript, React, and Next.js. Adept at creating efficient, high-quality solutions and optimizing application performance with a collaborative, problem-solving approach.
 
 
 ## 🌐 Socials:
