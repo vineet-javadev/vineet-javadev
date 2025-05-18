@@ -6,7 +6,8 @@ I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineet-javadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineetkumar444777@gmail.com) 
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vineet-javadev&theme=github-compact&hide_border=true)
+![GitHub Activity Graph]![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vineet-javadev)
+
 
 
 # 💻 Tech Stack:
