@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core and Advanced Java, including Spring Boot and Spring AI. Experienced in backend development with MySQL, JDBC, JSP, and Servlets. Front-end expertise includes HTML, CSS, JavaScript, React, and Next.js. Adept at creating efficient, high-quality solutions and optimizing application performance with a collaborative, problem-solving approach.
+I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core and Advanced Java, including **Spring Boot** and **Spring AI**. Experienced in backend development with **MySQL**, JDBC, JSP, and Servlets. Front-end expertise includes HTML, CSS, JavaScript, **React.js / Angular.js**, and **Next.js**. Adept at creating efficient, high-quality solutions and optimizing application performance with a collaborative, **problem-solving approach**.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-javadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vineet-javadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vineet-javadev&theme=radical&no-frame=false&no-bg=true&margin-w=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,5 +23,3 @@ I'm Vineet k. Chauhan a Skilled **Java Full-Stack Developer** proficient in Core
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vineet-javadev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
