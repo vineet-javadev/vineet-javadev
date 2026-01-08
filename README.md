@@ -40,16 +40,19 @@ I am actively seeking opportunities as a **Junior Java Developer / Java Backend 
 - Integrated MySQL using Hibernate/JPA  
 - Documented APIs using Swagger  
 
-🔗 GitHub: (add repo link)
+🔗 GitHub: https://github.com/vineet-javadev/Project-Portal-Backend
 
 ---
 
-### 🔹 ExamBeam – Assessment Support System
-**Tech:** Java, Spring Boot, MySQL  
-- Backend logic for question management and result processing  
-- API-driven architecture for exam workflows  
+### 🔹 ExamBeam – AI-Powered web application
+**Tech:** Angular, TypeScript, Tailwind CSS, Mistral AI API  
+- Developed an AI-powered web application to assist students in last-minute exam preparation.
+- Implemented dynamic MCQ, short answer, and long answer question generation using AI.
+- Provided instant feedback and score tracking to help users evaluate performance.
+- Built a responsive, modern user interface for distraction-free learning. 
+- Integrated recent search history for quick topic access and review sessions. 
 
-🔗 GitHub: (add repo link)
+🔗 GitHub: https://github.com/vineet-javadev/ExamBeam
 
 ---
 
@@ -65,7 +68,8 @@ I am actively seeking opportunities as a **Junior Java Developer / Java Backend 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://linkedin.com/in/vineet-javadev  
+- LinkedIn: https://linkedin.com/in/vineet-javadev
+- Portfolio: https://portfolio-vineet-javadevs-projects.vercel.app/ 
 - Email: vineetkumar444777@gmail.com  
 
 ---
